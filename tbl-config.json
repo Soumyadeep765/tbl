@@ -1,0 +1,27 @@
+{
+    "title": "TBL Documentation",
+    "description": "Official documentation for Tele Bot Lang",
+    "defaultPage": "welcome.md",
+    "pages": [
+        {
+            "title": "Welcome",
+            "file": "welcome.md",
+            "icon": "fas fa-home"
+        },
+        {
+            "title": "Getting Started",
+            "file": "getting-started.md",
+            "icon": "fas fa-rocket"
+        },
+        {
+            "title": "API Reference",
+            "file": "api-reference.md",
+            "icon": "fas fa-code"
+        },
+        {
+            "title": "Examples",
+            "file": "examples.md",
+            "icon": "fas fa-list-ul"
+        }
+    ]
+}
